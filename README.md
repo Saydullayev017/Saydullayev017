@@ -6,6 +6,7 @@
 	- [**JLearn**](https://github.com/JLearn-space) — interactive educational platform with a competency-based approach. [link](https://jlearn.space)
 	- [**DeadLine**](https://github.com/Saydullayev017/deadline) — Obsidian productivity plugin with calendar, timer, and task management
    	- [**JLMoodle**](https://github.com/JLMoodle) — LMS platform for students and teachers: courses, auto-graded tests, assignments and gradebook. [link](https://atpp.site)
+   	- **Code Arena** — contest platform for school and university students in information systems and computer science. [link](https://olimp.atpp.site)
 
 ## Education
 - **Bachelor's Degree** — Information systems and technologies (2020–2024)
